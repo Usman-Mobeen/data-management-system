@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/data-management-system/static/css/main.306f9458.css",
+    "main.js": "/data-management-system/static/js/main.692e92b2.js",
+    "static/js/453.191b5df6.chunk.js": "/data-management-system/static/js/453.191b5df6.chunk.js",
+    "index.html": "/data-management-system/index.html",
+    "main.306f9458.css.map": "/data-management-system/static/css/main.306f9458.css.map",
+    "main.692e92b2.js.map": "/data-management-system/static/js/main.692e92b2.js.map",
+    "453.191b5df6.chunk.js.map": "/data-management-system/static/js/453.191b5df6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306f9458.css",
+    "static/js/main.692e92b2.js"
+  ]
+}
